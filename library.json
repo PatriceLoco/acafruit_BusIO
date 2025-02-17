@@ -1,0 +1,22 @@
+{
+  "name": "acafruit_BusIO",
+  "keywords": "display, lcd, oled, eink",
+  "description": "clon de adafruit_BusIO",
+  "homepage": "https://github.com/patriceloco/acafruit_BusIO",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patriceloco/acafruit_BusIO"
+  },
+  "version": "0.0.1",
+  "license": "BSD-2-Clause",
+  "authors": {
+    "name": "PatriceLoco",
+    "email": "patriceloco@gmail.com",
+    "maintainer": true
+  },
+  "frameworks": "arduino",
+  "platforms": "*",
+  "build": {
+    "libLDFMode": "chain+"
+  }
+}
